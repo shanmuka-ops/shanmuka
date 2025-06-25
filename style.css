@@ -1,0 +1,50 @@
+.parent {
+    width: 210px;
+    padding: 5px 5px;
+}
+
+.one {
+    box-shadow: 0 0 10px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.imgone {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+
+}
+
+.hs {
+    padding: 5px 5px;
+    margin: 0px;
+}
+
+.p1 {
+    padding: 5px 5px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+
+.dis {
+    padding: 5px 5px;
+    background-color: cornflowerblue;
+    width: 210px;
+    margin-left: 10px;
+    position: sticky;
+    top: 0px;
+
+}
+
+.btn {
+    padding: 6px 30px;
+    color: white;
+    background-color: black;
+
+}
+.main{
+    margin: 10px;
+    
+}
