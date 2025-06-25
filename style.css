@@ -81,3 +81,214 @@
     margin: 10px;
     
 }
+
+.es{
+    display:flex;
+}
+.h{
+    color: white;
+}
+.p{
+    color: white;
+}
+.r{
+    color: white;
+}
+.e{
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+}
+.s{
+    border-radius: 10px;
+    margin:20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: red;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.n{
+    color:red;
+    padding-left: 30px;
+}
+.gs{
+    background-color: red;
+    color:white;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tn{
+    padding-left: 10px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.heading{
+    display:flex;
+    justify-content: space-between;
+}
+.image{
+    justify-content: space-between;
+    display:flex;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.one{
+    border-radius: 10px;
+}
+.two{
+    border-radius: 10px;
+}
+.three{
+    border-radius: 10px;
+}
+.four{
+    border-radius: 10px;
+}
+.five{
+    border-radius: 10px;
+}
+.m{
+    color: white;
+    padding-left: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.total{
+    background-color: black;
+    padding-bottom: 100px;
+}
+.enj{
+    background-color: rgb(55, 53, 180);
+    width: 170px;
+    height: 210px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.dow{
+    background-color:  rgb(55, 53, 180);
+    width: 170px;
+    height: 210px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.wat{
+    background-color: rgb(55, 53, 180);
+    width: 170px;
+    height: 210px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.cre{
+    background-color:  rgb(55, 53, 180);
+    width: 170px;
+    height: 210px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.mrtj{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.faq{
+    color: white;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     padding-left: 20px;
+}
+.wh{
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}
+.wh1{
+    background-color: darkslategray;
+    margin-right: 800px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    
+}
+.wh0{
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}
+.wh2{
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}
+.wh3{
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}
+.wh4{
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}
+.wh5{
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}
+.pluse{
+    padding-top: 25px;
+    padding-right: 25px;
+    color: white;
+}
+.r1{
+    color: white;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gs1{
+     background-color: red;
+    color:white;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+
+}
+.em1{
+    padding: 10px;
+}
+.call{
+    color: white;
+    padding-left: 20px;
+    
+}
+.call1{
+    margin-top: 60px;
+}
+.set1{
+    color: white;
+}
+.set2{
+    color: white;
+}
+.set3{
+    color: white;
+}
+.set4{
+    color: white;
+}
+.sets{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
