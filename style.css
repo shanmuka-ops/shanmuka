@@ -79,9 +79,15 @@
 }
 .main{
     margin: 10px;
+    position: relative;
     
 }
-
+.heart {
+    position: absolute;
+    color: black;
+    top: 0px;
+    right: 0px;
+}
 
 
 
